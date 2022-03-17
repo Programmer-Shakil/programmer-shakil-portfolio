@@ -1,0 +1,25 @@
+Navigation bar ---
+    home,
+    about,
+    skills,
+    resume,
+    experience + Resume
+    project,
+    price,
+    hire me,
+    client,
+    contact + address
+     =>news / FAQ
+
+
+
+
+
+Main topic's thinking before a start project ---
+	website type - Personal Portfolio Website,
+	website version - Light / Dark          --- Light
+	website navgition bar,
+	website main color - Black, Yellow
+	website fonts,
+	website plugin
+
