@@ -277,3 +277,17 @@ p {
   left: 50%;
 }
 /* Experience Section End */
+
+/* Project Section Start */
+.project {
+  background-color: #edf0f1;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.project h1 {
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 700;
+}
